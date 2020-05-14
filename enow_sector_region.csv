@@ -1,0 +1,673 @@
+geoid,geoname,regionid,region,geoscale,year,oceansectid,oceansector,establishments,employment,wages,gdp,realgdp
+-1,West,1,West,Regional,2005,1,Marine Construction,543,11131,714217000,1550851000,1832172000
+-1,West,1,West,Regional,2005,2,Living Resources,1522,16349,715970000,1574222000,1778003000
+-1,West,1,West,Regional,2005,3,Offshore Mineral Extraction,534,10127,910101000,5808831000,5192388000
+-1,West,1,West,Regional,2005,4,Ship and Boat Building,354,28002,1448149000,3429300000,3760192000
+-1,West,1,West,Regional,2005,5,Tourism and Recreation,23510,420656,8126257000,17452899000,20314199000
+-1,West,1,West,Regional,2005,6,Marine Transportation,2280,137657,9480375000,17571648000,15498214000
+-1,West,1,West,Regional,2005,9,All Ocean Sectors,28743,623928,21395069000,47387751000,48375167000
+-1,West,1,West,Regional,2006,1,Marine Construction,542,11229,782883000,1643062000,1773044000
+-1,West,1,West,Regional,2006,2,Living Resources,1468,16203,749035000,1797906000,2057263000
+-1,West,1,West,Regional,2006,3,Offshore Mineral Extraction,549,11102,1069009000,7832165000,6470950000
+-1,West,1,West,Regional,2006,4,Ship and Boat Building,359,28233,1539710000,3688253000,3938531000
+-1,West,1,West,Regional,2006,5,Tourism and Recreation,23806,435403,8654590000,18892381000,21214140000
+-1,West,1,West,Regional,2006,6,Marine Transportation,2348,139005,10052717000,18056506000,16696949000
+-1,West,1,West,Regional,2006,9,All Ocean Sectors,29072,641183,22847945000,51910273000,52150876000
+-1,West,1,West,Regional,2007,1,Marine Construction,536,11641,815120000,1641969000,1665241000
+-1,West,1,West,Regional,2007,2,Living Resources,1419,15768,764188000,1971501000,2199914000
+-1,West,1,West,Regional,2007,3,Offshore Mineral Extraction,517,11644,1172168000,9183794000,6947924000
+-1,West,1,West,Regional,2007,4,Ship and Boat Building,358,28735,1594989000,4166280000,4416970000
+-1,West,1,West,Regional,2007,5,Tourism and Recreation,24155,451095,9421165000,19840724000,21344131000
+-1,West,1,West,Regional,2007,6,Marine Transportation,2347,140954,10240026000,18645238000,17661594000
+-1,West,1,West,Regional,2007,9,All Ocean Sectors,29332,659844,24007657000,55449506000,54235774000
+-1,West,1,West,Regional,2008,1,Marine Construction,546,10889,803255000,1448878000,1469329000
+-1,West,1,West,Regional,2008,2,Living Resources,1359,15029,775226000,1788014000,1850253000
+-1,West,1,West,Regional,2008,3,Offshore Mineral Extraction,506,11900,1271220000,10970711000,6224012000
+-1,West,1,West,Regional,2008,4,Ship and Boat Building,359,29221,1674409000,4048209000,4282150000
+-1,West,1,West,Regional,2008,5,Tourism and Recreation,24114,456113,9821568000,20049139000,20903314000
+-1,West,1,West,Regional,2008,6,Marine Transportation,2301,138325,10063342000,19637998000,19088745000
+-1,West,1,West,Regional,2008,9,All Ocean Sectors,29185,661483,24409020000,57942949000,53817802000
+-1,West,1,West,Regional,2009,1,Marine Construction,542,9200,705611000,1326034000,1326034000
+-1,West,1,West,Regional,2009,2,Living Resources,1324,14575,678890000,1788713000,1788713000
+-1,West,1,West,Regional,2009,3,Offshore Mineral Extraction,506,10801,1101466000,7626544000,7626544000
+-1,West,1,West,Regional,2009,4,Ship and Boat Building,354,26845,1651988000,4329468000,4329468000
+-1,West,1,West,Regional,2009,5,Tourism and Recreation,23974,433338,9266309000,18712048000,18712048000
+-1,West,1,West,Regional,2009,6,Marine Transportation,2223,130280,9661586000,19263294000,19263294000
+-1,West,1,West,Regional,2009,9,All Ocean Sectors,28923,625047,23065850000,53046101000,53046101000
+-1,West,1,West,Regional,2010,1,Marine Construction,524,7969,624692000,1210193000,1232512000
+-1,West,1,West,Regional,2010,2,Living Resources,1328,14709,686719000,1744931000,1704469000
+-1,West,1,West,Regional,2010,3,Offshore Mineral Extraction,508,10880,1304160000,8376303000,6587104000
+-1,West,1,West,Regional,2010,4,Ship and Boat Building,325,25444,1673662000,4428393000,4433388000
+-1,West,1,West,Regional,2010,5,Tourism and Recreation,24392,433063,9433075000,19150513000,19169767000
+-1,West,1,West,Regional,2010,6,Marine Transportation,2204,125714,9770529000,18941405000,18905004000
+-1,West,1,West,Regional,2010,9,All Ocean Sectors,29281,617785,23492838000,53851739000,52032245000
+-1,West,1,West,Regional,2011,1,Marine Construction,506,7369,572355000,1056824000,1060708000
+-1,West,1,West,Regional,2011,2,Living Resources,1332,15140,778453000,1878447000,1795745000
+-1,West,1,West,Regional,2011,3,Offshore Mineral Extraction,497,10626,1333207000,9332358000,6412804000
+-1,West,1,West,Regional,2011,4,Ship and Boat Building,324,25053,1678116000,4206211000,4168066000
+-1,West,1,West,Regional,2011,5,Tourism and Recreation,24741,440375,9858442000,20194849000,20203761000
+-1,West,1,West,Regional,2011,6,Marine Transportation,2160,119186,9278165000,17779618000,18230921000
+-1,West,1,West,Regional,2011,9,All Ocean Sectors,29560,617757,23498738000,54448306000,51872005000
+-1,West,1,West,Regional,2012,1,Marine Construction,512,8152,676790000,1299725000,1267491000
+-1,West,1,West,Regional,2012,2,Living Resources,1320,15330,811379000,1970053000,1800959000
+-1,West,1,West,Regional,2012,3,Offshore Mineral Extraction,487,11118,1440832000,9350288000,7059390000
+-1,West,1,West,Regional,2012,4,Ship and Boat Building,319,25439,1726185000,4063000000,3937529000
+-1,West,1,West,Regional,2012,5,Tourism and Recreation,24914,458803,10534544000,21301927000,20520863000
+-1,West,1,West,Regional,2012,6,Marine Transportation,2196,119528,9483850000,18797329000,19520542000
+-1,West,1,West,Regional,2012,9,All Ocean Sectors,29748,638374,24673579000,56782322000,54106774000
+-1,West,1,West,Regional,2013,1,Marine Construction,544,8685,726597000,1453673000,1369682000
+-1,West,1,West,Regional,2013,2,Living Resources,1315,15678,788833000,1973680000,1763817000
+-1,West,1,West,Regional,2013,3,Offshore Mineral Extraction,519,11120,1395644000,8298434000,6020783000
+-1,West,1,West,Regional,2013,4,Ship and Boat Building,324,25181,1666808000,3963459000,3723891000
+-1,West,1,West,Regional,2013,5,Tourism and Recreation,25601,478842,11178248000,22529435000,21117706000
+-1,West,1,West,Regional,2013,6,Marine Transportation,2294,116014,9403064000,19409096000,20151343000
+-1,West,1,West,Regional,2013,9,All Ocean Sectors,30597,655522,25159194000,57627777000,54147222000
+-1,West,1,West,Regional,2014,1,Marine Construction,520,8479,683739000,1379176000,1218054000
+-1,West,1,West,Regional,2014,2,Living Resources,1292,15296,779399000,2015402000,1747846000
+-1,West,1,West,Regional,2014,3,Offshore Mineral Extraction,552,11322,1245932000,5745915000,4357045000
+-1,West,1,West,Regional,2014,4,Ship and Boat Building,310,25906,1779135000,4360101000,3973563000
+-1,West,1,West,Regional,2014,5,Tourism and Recreation,25906,498274,11960464000,25097357000,22909601000
+-1,West,1,West,Regional,2014,6,Marine Transportation,2302,115252,9523642000,19046373000,19288063000
+-1,West,1,West,Regional,2014,9,All Ocean Sectors,30882,674525,25972311000,57644323000,53494172000
+-1,West,1,West,Regional,2015,1,Marine Construction,512,8776,776998000,1565406000,1327412000
+-1,West,1,West,Regional,2015,2,Living Resources,1266,14913,751869000,1901913000,1619766000
+-1,West,1,West,Regional,2015,3,Offshore Mineral Extraction,549,10607,1140321000,3511828000,4328085000
+-1,West,1,West,Regional,2015,4,Ship and Boat Building,308,28791,1965510000,5109811000,4479844000
+-1,West,1,West,Regional,2015,5,Tourism and Recreation,26739,520331,13168941000,27855584000,24286478000
+-1,West,1,West,Regional,2015,6,Marine Transportation,2354,123418,10310720000,20326089000,19903434000
+-1,West,1,West,Regional,2015,9,All Ocean Sectors,31728,706837,28114358000,60270630000,55945020000
+-1,West,1,West,Regional,2016,1,Marine Construction,486,8653,784166000,1569650000,1283791000
+-1,West,1,West,Regional,2016,2,Living Resources,1802,21654,1137858000,2899629000,2486927000
+-1,West,1,West,Regional,2016,3,Offshore Mineral Extraction,548,9710,1030956000,2930128000,3902940000
+-1,West,1,West,Regional,2016,4,Ship and Boat Building,304,30044,2090809000,5266522000,4529180000
+-1,West,1,West,Regional,2016,5,Tourism and Recreation,27363,535852,14075099000,29398853000,24613852000
+-1,West,1,West,Regional,2016,6,Marine Transportation,2384,127202,10398448000,20053221000,19655540000
+-1,West,1,West,Regional,2016,9,All Ocean Sectors,32887,733118,29517336000,62118004000,56472230000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2005,1,Marine Construction,754,16565,688894000,1468108000,1734402000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2005,2,Living Resources,1296,16608,363754000,1187746000,1289739000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2005,3,Offshore Mineral Extraction,2792,100490,11305374000,73853145000,60875017000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2005,4,Ship and Boat Building,586,45345,1853184000,3378009000,3702834000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2005,5,Tourism and Recreation,16217,297479,4964592000,9652393000,11252553000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2005,6,Marine Transportation,1935,84728,4080026000,8787428000,7635596000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2005,9,All Ocean Sectors,23613,561434,23265612000,95679640000,84469174000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2006,1,Marine Construction,792,19073,899362000,1835143000,1980318000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2006,2,Living Resources,1238,15365,366058000,1186572000,1346469000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2006,3,Offshore Mineral Extraction,2928,109454,12922422000,84559867000,65876709000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2006,4,Ship and Boat Building,611,48393,2097672000,3293110000,3516788000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2006,5,Tourism and Recreation,14801,267231,4613672000,10057766000,11326327000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2006,6,Marine Transportation,2016,87792,4497628000,10602981000,9474491000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2006,9,All Ocean Sectors,22427,547677,25411089000,1.08434E+11,90999264000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2007,1,Marine Construction,834,18633,990563000,2026837000,2055544000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2007,2,Living Resources,1221,14919,365507000,1208875000,1241428000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2007,3,Offshore Mineral Extraction,3100,116942,15059280000,99888744000,72405634000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2007,4,Ship and Boat Building,641,52020,2453866000,4283903000,4541206000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2007,5,Tourism and Recreation,18225,335613,6284115000,10528504000,11365366000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2007,6,Marine Transportation,2006,90542,4988487000,10968571000,10213170000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2007,9,All Ocean Sectors,26071,628945,30151284000,1.2549E+11,98769169000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2008,1,Marine Construction,769,18879,1097548000,2044044000,2072895000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2008,2,Living Resources,1214,13985,363428000,1142230000,1123043000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2008,3,Offshore Mineral Extraction,3237,126354,16787515000,1.28418E+11,71462016000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2008,4,Ship and Boat Building,669,52789,2619597000,4355606000,4606455000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2008,5,Tourism and Recreation,16051,276516,4997526000,10291218000,10748857000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2008,6,Marine Transportation,2169,93282,5363329000,12703897000,11994286000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2008,9,All Ocean Sectors,24845,593825,31394744000,1.55348E+11,98723002000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2009,1,Marine Construction,726,17283,988509000,1881571000,1881571000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2009,2,Living Resources,1149,13787,360844000,1261970000,1261970000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2009,3,Offshore Mineral Extraction,3220,118544,15660338000,87964357000,87964357000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2009,4,Ship and Boat Building,652,43482,2209702000,3701794000,3701794000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2009,5,Tourism and Recreation,17372,285699,5123467000,10309352000,10309352000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2009,6,Marine Transportation,2055,81205,4768747000,10497982000,10497982000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2009,9,All Ocean Sectors,25212,560208,29127205000,1.14197E+11,1.14197E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2010,1,Marine Construction,727,17208,991658000,1936555000,1972275000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2010,2,Living Resources,1183,13323,365157000,1309307000,1253603000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2010,3,Offshore Mineral Extraction,3290,111161,15219214000,91671650000,72590544000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2010,4,Ship and Boat Building,621,40226,2093061000,3792948000,3796551000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2010,5,Tourism and Recreation,16955,271448,4945836000,10879994000,10884256000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2010,6,Marine Transportation,2083,83409,4979785000,11755295000,11397048000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2010,9,All Ocean Sectors,24893,536975,28607556000,1.18736E+11,99410340000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2011,1,Marine Construction,722,16546,1017059000,2092462000,2100173000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2011,2,Living Resources,1148,12672,362332000,1173723000,1060382000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2011,3,Offshore Mineral Extraction,3299,119932,17625443000,1.10866E+11,77078852000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2011,4,Ship and Boat Building,555,37455,2085476000,3224230000,3194825000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2011,5,Tourism and Recreation,17273,284575,5277573000,11427176000,11435266000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2011,6,Marine Transportation,2016,80692,4978034000,10523267000,10558902000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2011,9,All Ocean Sectors,25049,552098,31359225000,1.3752E+11,1.03666E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2012,1,Marine Construction,750,16984,1026888000,1973502000,1924568000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2012,2,Living Resources,1146,12913,392883000,1335622000,1140684000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2012,3,Offshore Mineral Extraction,3393,131289,19513356000,1.21694E+11,92057175000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2012,4,Ship and Boat Building,567,40408,2286847000,3657794000,3544812000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2012,5,Tourism and Recreation,17267,298558,5652543000,12001223000,11556255000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2012,6,Marine Transportation,2023,81003,5071815000,10925524000,11105221000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2012,9,All Ocean Sectors,25185,581349,33954922000,1.49721E+11,1.19395E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2013,1,Marine Construction,762,17419,1008422000,1864501000,1756784000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2013,2,Living Resources,1174,13073,393811000,1591356000,1288866000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2013,3,Offshore Mineral Extraction,3487,141494,20908233000,1.43056E+11,1.02685E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2013,4,Ship and Boat Building,566,41464,2366898000,4045814000,3801607000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2013,5,Tourism and Recreation,17303,309588,5955544000,12384075000,11606971000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2013,6,Marine Transportation,2014,83420,5293091000,11960573000,12257536000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2013,9,All Ocean Sectors,25306,606460,35925998000,1.72892E+11,1.31252E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2014,1,Marine Construction,699,15781,994937000,1876800000,1657528000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2014,2,Living Resources,1192,13112,407810000,1478351000,1208930000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2014,3,Offshore Mineral Extraction,3574,140424,21497323000,1.46423E+11,1.07845E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2014,4,Ship and Boat Building,557,42289,2494233000,4152263000,3784234000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2014,5,Tourism and Recreation,16707,317502,6290880000,12773642000,11670306000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2014,6,Marine Transportation,2011,85204,5631749000,12550334000,12266331000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2014,9,All Ocean Sectors,24539,602742,36570640000,1.79255E+11,1.38432E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2015,1,Marine Construction,736,15669,1048209000,1964393000,1665753000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2015,2,Living Resources,1175,13505,459072000,1613210000,1370997000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2015,3,Offshore Mineral Extraction,3499,127487,20091288000,94895452000,1.21664E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2015,4,Ship and Boat Building,525,41278,2407594000,4159056000,3645834000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2015,5,Tourism and Recreation,16702,328329,6765173000,13896787000,12138860000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2015,6,Marine Transportation,2019,86436,5664769000,12486787000,11511383000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2015,9,All Ocean Sectors,24508,600503,35637074000,1.29016E+11,1.51997E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2016,1,Marine Construction,719,15904,1055460000,1974990000,1615316000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2016,2,Living Resources,1625,17117,590094000,1943584000,1697890000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2016,3,Offshore Mineral Extraction,3336,106792,17411920000,70099694000,1.01582E+11
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2016,4,Ship and Boat Building,573,37561,2225882000,3737732000,3214642000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2016,5,Tourism and Recreation,16249,338837,7096812000,14781708000,12410290000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2016,6,Marine Transportation,1980,80392,5127189000,11637926000,10823279000
+-2,Gulf of Mexico,2,Gulf of Mexico,Regional,2016,9,All Ocean Sectors,24570,598311,33607076000,1.04355E+11,1.31516E+11
+-3,Southeast,3,Southeast,Regional,2005,1,Marine Construction,518,6629,314261000,768794000,908256000
+-3,Southeast,3,Southeast,Regional,2005,2,Living Resources,527,3247,76766000,314153000,354236000
+-3,Southeast,3,Southeast,Regional,2005,3,Offshore Mineral Extraction,123,887,37615000,75897000,91817000
+-3,Southeast,3,Southeast,Regional,2005,4,Ship and Boat Building,326,13612,486011000,1059542000,1161747000
+-3,Southeast,3,Southeast,Regional,2005,5,Tourism and Recreation,11413,226102,3878900000,10395465000,12031702000
+-3,Southeast,3,Southeast,Regional,2005,6,Marine Transportation,1092,28872,1120533000,2108197000,2115519000
+-3,Southeast,3,Southeast,Regional,2005,9,All Ocean Sectors,13999,279357,5914086000,17369238000,18684244000
+-3,Southeast,3,Southeast,Regional,2006,1,Marine Construction,543,6595,310820000,717824000,774612000
+-3,Southeast,3,Southeast,Regional,2006,2,Living Resources,525,3139,75154000,294945000,337503000
+-3,Southeast,3,Southeast,Regional,2006,3,Offshore Mineral Extraction,134,814,35550000,85765000,91587000
+-3,Southeast,3,Southeast,Regional,2006,4,Ship and Boat Building,306,13421,495758000,1041255000,1112086000
+-3,Southeast,3,Southeast,Regional,2006,5,Tourism and Recreation,13525,260089,4778903000,11033420000,12300254000
+-3,Southeast,3,Southeast,Regional,2006,6,Marine Transportation,1091,31586,1301375000,2941336000,2779338000
+-3,Southeast,3,Southeast,Regional,2006,9,All Ocean Sectors,16124,315652,6997560000,19216148000,19917218000
+-3,Southeast,3,Southeast,Regional,2007,1,Marine Construction,544,6555,324956000,733076000,743469000
+-3,Southeast,3,Southeast,Regional,2007,2,Living Resources,506,3263,82754000,298253000,327633000
+-3,Southeast,3,Southeast,Regional,2007,3,Offshore Mineral Extraction,144,790,34833000,83149000,83145000
+-3,Southeast,3,Southeast,Regional,2007,4,Ship and Boat Building,287,13289,516015000,1272664000,1349389000
+-3,Southeast,3,Southeast,Regional,2007,5,Tourism and Recreation,10689,210153,3771380000,11654454000,12431977000
+-3,Southeast,3,Southeast,Regional,2007,6,Marine Transportation,1091,33134,1379599000,2965893000,2818524000
+-3,Southeast,3,Southeast,Regional,2007,9,All Ocean Sectors,13261,267190,6109538000,20423282000,20807316000
+-3,Southeast,3,Southeast,Regional,2008,1,Marine Construction,551,5706,281279000,577661000,585806000
+-3,Southeast,3,Southeast,Regional,2008,2,Living Resources,498,2960,76577000,282851000,290886000
+-3,Southeast,3,Southeast,Regional,2008,3,Offshore Mineral Extraction,178,661,29091000,70649000,72314000
+-3,Southeast,3,Southeast,Regional,2008,4,Ship and Boat Building,291,10787,408215000,1045941000,1106168000
+-3,Southeast,3,Southeast,Regional,2008,5,Tourism and Recreation,14012,259353,4974970000,11424290000,11810552000
+-3,Southeast,3,Southeast,Regional,2008,6,Marine Transportation,1149,33780,1419558000,3250539000,3050064000
+-3,Southeast,3,Southeast,Regional,2008,9,All Ocean Sectors,16679,313254,7189690000,20258591000,20200339000
+-3,Southeast,3,Southeast,Regional,2009,1,Marine Construction,510,5013,262367000,557206000,557206000
+-3,Southeast,3,Southeast,Regional,2009,2,Living Resources,476,2768,70961000,306883000,306883000
+-3,Southeast,3,Southeast,Regional,2009,3,Offshore Mineral Extraction,163,503,21911000,53557000,53557000
+-3,Southeast,3,Southeast,Regional,2009,4,Ship and Boat Building,277,7538,302405000,880693000,880693000
+-3,Southeast,3,Southeast,Regional,2009,5,Tourism and Recreation,14292,251161,4825844000,11095687000,11095687000
+-3,Southeast,3,Southeast,Regional,2009,6,Marine Transportation,1164,38450,1779796000,5157669000,5157669000
+-3,Southeast,3,Southeast,Regional,2009,9,All Ocean Sectors,16882,305439,7263284000,19472037000,19472037000
+-3,Southeast,3,Southeast,Regional,2010,1,Marine Construction,476,3915,180912000,412794000,420403000
+-3,Southeast,3,Southeast,Regional,2010,2,Living Resources,470,2605,69331000,283572000,277559000
+-3,Southeast,3,Southeast,Regional,2010,3,Offshore Mineral Extraction,143,410,17760000,46867000,44868000
+-3,Southeast,3,Southeast,Regional,2010,4,Ship and Boat Building,246,6861,290878000,776376000,777203000
+-3,Southeast,3,Southeast,Regional,2010,5,Tourism and Recreation,15713,274839,5394873000,11894783000,11915097000
+-3,Southeast,3,Southeast,Regional,2010,6,Marine Transportation,1225,34796,1624656000,4183298000,3896435000
+-3,Southeast,3,Southeast,Regional,2010,9,All Ocean Sectors,18273,323434,7578410000,20207344000,19815502000
+-3,Southeast,3,Southeast,Regional,2011,1,Marine Construction,502,4021,198260000,346167000,347442000
+-3,Southeast,3,Southeast,Regional,2011,2,Living Resources,491,2800,73537000,278614000,267772000
+-3,Southeast,3,Southeast,Regional,2011,3,Offshore Mineral Extraction,141,329,14185000,25101000,22988000
+-3,Southeast,3,Southeast,Regional,2011,4,Ship and Boat Building,308,8137,359589000,774391000,767402000
+-3,Southeast,3,Southeast,Regional,2011,5,Tourism and Recreation,16319,283836,5748741000,12646483000,12643913000
+-3,Southeast,3,Southeast,Regional,2011,6,Marine Transportation,1233,35601,1666989000,4741228000,4822330000
+-3,Southeast,3,Southeast,Regional,2011,9,All Ocean Sectors,18994,334729,8061302000,20598645000,20634665000
+-3,Southeast,3,Southeast,Regional,2012,1,Marine Construction,514,4644,255075000,552582000,538866000
+-3,Southeast,3,Southeast,Regional,2012,2,Living Resources,483,3216,87922000,358658000,321547000
+-3,Southeast,3,Southeast,Regional,2012,3,Offshore Mineral Extraction,138,427,19484000,43812000,40347000
+-3,Southeast,3,Southeast,Regional,2012,4,Ship and Boat Building,303,7885,342572000,679318000,658269000
+-3,Southeast,3,Southeast,Regional,2012,5,Tourism and Recreation,16230,296823,6126747000,13213633000,12724318000
+-3,Southeast,3,Southeast,Regional,2012,6,Marine Transportation,1267,39394,1975842000,4499984000,4689450000
+-3,Southeast,3,Southeast,Regional,2012,9,All Ocean Sectors,18959,352559,8814233000,21214049000,20906193000
+-3,Southeast,3,Southeast,Regional,2013,1,Marine Construction,534,5188,264787000,513776000,484081000
+-3,Southeast,3,Southeast,Regional,2013,2,Living Resources,515,3290,91620000,378239000,331994000
+-3,Southeast,3,Southeast,Regional,2013,3,Offshore Mineral Extraction,124,456,18476000,52717000,48064000
+-3,Southeast,3,Southeast,Regional,2013,4,Ship and Boat Building,319,7370,315427000,773372000,726586000
+-3,Southeast,3,Southeast,Regional,2013,5,Tourism and Recreation,16142,303634,6390412000,13820781000,12961337000
+-3,Southeast,3,Southeast,Regional,2013,6,Marine Transportation,1340,40381,2077782000,5060145000,5376633000
+-3,Southeast,3,Southeast,Regional,2013,9,All Ocean Sectors,18974,360322,9158504000,22609598000,22073632000
+-3,Southeast,3,Southeast,Regional,2014,1,Marine Construction,557,5154,272004000,567451000,501157000
+-3,Southeast,3,Southeast,Regional,2014,2,Living Resources,518,3295,95997000,378313000,326707000
+-3,Southeast,3,Southeast,Regional,2014,3,Offshore Mineral Extraction,154,429,21341000,48994000,45420000
+-3,Southeast,3,Southeast,Regional,2014,4,Ship and Boat Building,313,6904,306012000,915021000,833867000
+-3,Southeast,3,Southeast,Regional,2014,5,Tourism and Recreation,15647,309633,6672077000,14542517000,13261779000
+-3,Southeast,3,Southeast,Regional,2014,6,Marine Transportation,1349,41118,2213713000,5322816000,5326947000
+-3,Southeast,3,Southeast,Regional,2014,9,All Ocean Sectors,18791,379244,10372641000,21776317000,20296978000
+-3,Southeast,3,Southeast,Regional,2015,1,Marine Construction,586,5190,271568000,582862000,494263000
+-3,Southeast,3,Southeast,Regional,2015,2,Living Resources,558,3479,106767000,417560000,359580000
+-3,Southeast,3,Southeast,Regional,2015,3,Offshore Mineral Extraction,185,464,20749000,53527000,52029000
+-3,Southeast,3,Southeast,Regional,2015,4,Ship and Boat Building,411,8121,373730000,1042128000,913700000
+-3,Southeast,3,Southeast,Regional,2015,5,Tourism and Recreation,15859,323601,7208451000,15737503000,13734800000
+-3,Southeast,3,Southeast,Regional,2015,6,Marine Transportation,1385,43116,2450018000,5556090000,5130489000
+-3,Southeast,3,Southeast,Regional,2015,9,All Ocean Sectors,19169,396506,11248458000,23389670000,20684862000
+-3,Southeast,3,Southeast,Regional,2016,1,Marine Construction,597,5550,300605000,639694000,523181000
+-3,Southeast,3,Southeast,Regional,2016,2,Living Resources,855,7143,275500000,841473000,735089000
+-3,Southeast,3,Southeast,Regional,2016,3,Offshore Mineral Extraction,152,522,24845000,65239000,62596000
+-3,Southeast,3,Southeast,Regional,2016,4,Ship and Boat Building,365,8959,407687000,1086764000,934545000
+-3,Southeast,3,Southeast,Regional,2016,5,Tourism and Recreation,15502,335204,7611164000,16378267000,13752214000
+-3,Southeast,3,Southeast,Regional,2016,6,Marine Transportation,1417,45053,2488822000,5638885000,5245154000
+-3,Southeast,3,Southeast,Regional,2016,9,All Ocean Sectors,18888,402438,11108623000,24650323000,21252778000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2005,1,Marine Construction,686,8289,445401000,916775000,1083062000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2005,2,Living Resources,1271,9660,253237000,860277000,971705000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2005,3,Offshore Mineral Extraction,306,2161,111958000,333599000,475788000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2005,4,Ship and Boat Building,197,34477,1803680000,2639347000,2894283000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2005,5,Tourism and Recreation,28853,435663,9100423000,20395160000,23718859000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2005,6,Marine Transportation,2031,105682,6503139000,10614165000,9532685000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2005,9,All Ocean Sectors,33392,596250,18231623000,35724013000,38634710000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2006,1,Marine Construction,700,7647,436519000,861914000,930099000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2006,2,Living Resources,1101,8558,239940000,917925000,1057711000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2006,3,Offshore Mineral Extraction,301,2238,129015000,414269000,484829000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2006,4,Ship and Boat Building,199,34781,1894339000,2713945000,2898654000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2006,5,Tourism and Recreation,29497,447876,9708400000,21701661000,24363394000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2006,6,Marine Transportation,2125,109270,6609178000,10571485000,9937286000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2006,9,All Ocean Sectors,34093,611567,19052804000,37158221000,39645931000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2007,1,Marine Construction,712,7816,486143000,915843000,928835000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2007,2,Living Resources,1235,8615,242900000,820022000,910038000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2007,3,Offshore Mineral Extraction,320,2185,127949000,454744000,492598000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2007,4,Ship and Boat Building,202,35320,2049974000,3054570000,3238061000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2007,5,Tourism and Recreation,30259,462174,10513237000,22519433000,24277440000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2007,6,Marine Transportation,2179,112191,7196600000,11670341000,11088622000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2007,9,All Ocean Sectors,34908,628315,20616990000,39405578000,40906107000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2008,1,Marine Construction,670,7922,530868000,974110000,987841000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2008,2,Living Resources,1195,8181,250214000,848548000,887859000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2008,3,Offshore Mineral Extraction,310,2005,132986000,549770000,447555000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2008,4,Ship and Boat Building,215,35291,2178370000,3215115000,3400621000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2008,5,Tourism and Recreation,30902,468295,10833509000,23369010000,24343326000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2008,6,Marine Transportation,2206,112259,7338160000,13019558000,12555565000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2008,9,All Ocean Sectors,35527,634232,21275910000,41957500000,42604836000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2009,1,Marine Construction,643,8246,579390000,1128823000,1128823000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2009,2,Living Resources,1173,8195,260974000,1148463000,1148463000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2009,3,Offshore Mineral Extraction,285,1678,98241000,405890000,405890000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2009,4,Ship and Boat Building,205,34804,2164889000,3312420000,3312420000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2009,5,Tourism and Recreation,31404,462206,10511287000,22478981000,22478981000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2009,6,Marine Transportation,2218,108180,7254964000,13418611000,13418611000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2009,9,All Ocean Sectors,35990,623749,20897797000,41865847000,41865847000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2010,1,Marine Construction,654,9818,722720000,1355871000,1380876000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2010,2,Living Resources,1187,8023,258506000,1148374000,1141621000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2010,3,Offshore Mineral Extraction,277,1644,110065000,508578000,432600000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2010,4,Ship and Boat Building,203,35344,2215127000,3059098000,3063463000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2010,5,Tourism and Recreation,32534,475338,11104350000,23528740000,23560538000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2010,6,Marine Transportation,2272,104977,7243055000,13580104000,13543898000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2010,9,All Ocean Sectors,37158,635347,21662772000,43146344000,43088893000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2011,1,Marine Construction,618,8385,625202000,1184863000,1189238000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2011,2,Living Resources,1184,8243,271172000,1196055000,1167199000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2011,3,Offshore Mineral Extraction,269,1719,99018000,474574000,368140000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2011,4,Ship and Boat Building,187,36712,2394555000,3506577000,3475061000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2011,5,Tourism and Recreation,33813,499107,11928032000,25569173000,25595688000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2011,6,Marine Transportation,2184,102882,7221701000,13121125000,13640467000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2011,9,All Ocean Sectors,38319,657482,22573404000,45235977000,45639203000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2012,1,Marine Construction,628,8176,589141000,1165075000,1136175000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2012,2,Living Resources,1151,8305,278323000,1217931000,1126096000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2012,3,Offshore Mineral Extraction,305,2085,155368000,476960000,404732000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2012,4,Ship and Boat Building,184,38875,2561388000,3418922000,3313811000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2012,5,Tourism and Recreation,34094,518099,12688988000,27878477000,26854391000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2012,6,Marine Transportation,2204,101264,7349114000,13448782000,14234898000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2012,9,All Ocean Sectors,38592,676953,23629901000,47550796000,47018312000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2013,1,Marine Construction,610,7582,576001000,1138725962,1072996629
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2013,2,Living Resources,1156,8387,280209000,1255047259,1129183314
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2013,3,Offshore Mineral Extraction,319,1902,173153000,582554987,497409509
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2013,4,Ship and Boat Building,181,40089,2667561000,3767564977,3549277216
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2013,5,Tourism and Recreation,35062,538595,13414006000,29450869872,27592642936
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2013,6,Marine Transportation,2190,103006,7479769000,14056507215,15005494209
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2013,9,All Ocean Sectors,39546,699722,24598466000,50202484568,48802741192
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2014,1,Marine Construction,597,7663,578885000,1174690458,1037441919
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2014,2,Living Resources,1130,8568,286711000,1257921841,1099624333
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2014,3,Offshore Mineral Extraction,283,1787,131126000,569518894,469113999
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2014,4,Ship and Boat Building,170,41320,2903044000,3449234891,3144029957
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2014,5,Tourism and Recreation,35316,560050,14452832000,30339761879,27678816958
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2014,6,Marine Transportation,2159,103917,7722878000,14670436816,15378736102
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2014,9,All Ocean Sectors,39629,722965,26060441000,51467050705,48813029469
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2015,1,Marine Construction,591,8219,644137000,1180230000,1014871000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2015,2,Living Resources,1155,8741,306212000,1217560000,1050966000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2015,3,Offshore Mineral Extraction,256,1599,110762000,3727436000,3959141000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2015,4,Ship and Boat Building,172,40786,2881117000,3872557000,3383329000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2015,5,Tourism and Recreation,36037,579390,15381119000,13067276000,11402565000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2015,6,Marine Transportation,2187,116140,8513409000,33360653000,30882948000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2015,9,All Ocean Sectors,40419,754807,27849685000,58970825000,54092056000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2016,1,Marine Construction,617,8571,681813000,1360598000,1112795000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2016,2,Living Resources,1667,14102,572160000,1947744000,1681129000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2016,3,Offshore Mineral Extraction,318,1700,119839000,387286000,398597000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2016,4,Ship and Boat Building,173,38528,2702482000,3288397000,2828170000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2016,5,Tourism and Recreation,36407,600271,16520850000,34367599000,28725135000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2016,6,Marine Transportation,2217,124407,8770712000,15833490000,16285374000
+-4,Mid-Atlantic,4,Mid-Atlantic,Regional,2016,9,All Ocean Sectors,41407,787652,29371540000,57192282000,51037903000
+-5,Northeast,5,Northeast,Regional,2005,1,Marine Construction,177,1223,72295000,197025000,232769000
+-5,Northeast,5,Northeast,Regional,2005,2,Living Resources,1177,7648,336584000,895831000,994976000
+-5,Northeast,5,Northeast,Regional,2005,3,Offshore Mineral Extraction,124,557,26351000,108930000,169866000
+-5,Northeast,5,Northeast,Regional,2005,4,Ship and Boat Building,220,24043,1397130000,1971473000,2161305000
+-5,Northeast,5,Northeast,Regional,2005,5,Tourism and Recreation,10787,150782,2745293000,5673585000,6619436000
+-5,Northeast,5,Northeast,Regional,2005,6,Marine Transportation,597,21809,1255757000,2482540000,2113021000
+-5,Northeast,5,Northeast,Regional,2005,9,All Ocean Sectors,13174,206737,5877424000,11329384000,12291373000
+-5,Northeast,5,Northeast,Regional,2006,1,Marine Construction,125,807,44101000,134487000,145134000
+-5,Northeast,5,Northeast,Regional,2006,2,Living Resources,1229,7662,331979000,1053459000,1162352000
+-5,Northeast,5,Northeast,Regional,2006,3,Offshore Mineral Extraction,99,310,14014000,113433000,150513000
+-5,Northeast,5,Northeast,Regional,2006,4,Ship and Boat Building,210,23141,1365573000,2012243000,2148416000
+-5,Northeast,5,Northeast,Regional,2006,5,Tourism and Recreation,10735,150544,2842458000,5750936000,6480095000
+-5,Northeast,5,Northeast,Regional,2006,6,Marine Transportation,583,23891,1501457000,2974037000,2695746000
+-5,Northeast,5,Northeast,Regional,2006,9,All Ocean Sectors,13108,207338,6158068000,12038596000,12782256000
+-5,Northeast,5,Northeast,Regional,2007,1,Marine Construction,156,1229,77008000,175915000,178405000
+-5,Northeast,5,Northeast,Regional,2007,2,Living Resources,1219,7732,338371000,1015805000,1085580000
+-5,Northeast,5,Northeast,Regional,2007,3,Offshore Mineral Extraction,113,760,39915000,190916000,234112000
+-5,Northeast,5,Northeast,Regional,2007,4,Ship and Boat Building,216,22903,1453771000,2155440000,2284734000
+-5,Northeast,5,Northeast,Regional,2007,5,Tourism and Recreation,10935,156832,3048789000,5864593000,6343577000
+-5,Northeast,5,Northeast,Regional,2007,6,Marine Transportation,584,23199,1613898000,3450084000,3175596000
+-5,Northeast,5,Northeast,Regional,2007,9,All Ocean Sectors,13297,213316,6613335000,12852753000,13302003000
+-5,Northeast,5,Northeast,Regional,2008,1,Marine Construction,155,1187,79773000,159956000,162216000
+-5,Northeast,5,Northeast,Regional,2008,2,Living Resources,1207,7558,330666000,948436000,965737000
+-5,Northeast,5,Northeast,Regional,2008,3,Offshore Mineral Extraction,132,883,48873000,132302000,141433000
+-5,Northeast,5,Northeast,Regional,2008,4,Ship and Boat Building,203,23410,1525805000,2048032000,2165498000
+-5,Northeast,5,Northeast,Regional,2008,5,Tourism and Recreation,8699,126577,2445556000,6059080000,6337479000
+-5,Northeast,5,Northeast,Regional,2008,6,Marine Transportation,592,25101,1658207000,3404598000,3257333000
+-5,Northeast,5,Northeast,Regional,2008,9,All Ocean Sectors,13405,216171,6766848000,12752403000,13029697000
+-5,Northeast,5,Northeast,Regional,2009,1,Marine Construction,192,1135,73094000,136269000,136269000
+-5,Northeast,5,Northeast,Regional,2009,2,Living Resources,1182,7885,350593000,1165383000,1165383000
+-5,Northeast,5,Northeast,Regional,2009,3,Offshore Mineral Extraction,137,629,37828000,111075000,111075000
+-5,Northeast,5,Northeast,Regional,2009,4,Ship and Boat Building,192,23046,1542962000,2211144000,2211144000
+-5,Northeast,5,Northeast,Regional,2009,5,Tourism and Recreation,11138,155092,3034202000,6120475000,6120475000
+-5,Northeast,5,Northeast,Regional,2009,6,Marine Transportation,587,23494,1597272000,3302380000,3302380000
+-5,Northeast,5,Northeast,Regional,2009,9,All Ocean Sectors,13434,211286,6635950000,13046726000,13046726000
+-5,Northeast,5,Northeast,Regional,2010,1,Marine Construction,192,1506,83593000,156835000,159731000
+-5,Northeast,5,Northeast,Regional,2010,2,Living Resources,1187,8036,380584000,1285955000,1241925000
+-5,Northeast,5,Northeast,Regional,2010,3,Offshore Mineral Extraction,138,733,45755000,147571000,133721000
+-5,Northeast,5,Northeast,Regional,2010,4,Ship and Boat Building,192,23156,1622376000,2584541000,2588262000
+-5,Northeast,5,Northeast,Regional,2010,5,Tourism and Recreation,11245,158055,3158372000,6561911000,6569095000
+-5,Northeast,5,Northeast,Regional,2010,6,Marine Transportation,580,21878,1557186000,3129398000,3149348000
+-5,Northeast,5,Northeast,Regional,2010,9,All Ocean Sectors,13540,213372,6847866000,13866210000,13842082000
+-5,Northeast,5,Northeast,Regional,2011,1,Marine Construction,189,1544,74880000,83037000,83343000
+-5,Northeast,5,Northeast,Regional,2011,2,Living Resources,1199,7744,424407000,1389441000,1316147000
+-5,Northeast,5,Northeast,Regional,2011,3,Offshore Mineral Extraction,124,636,39750000,101923000,85985000
+-5,Northeast,5,Northeast,Regional,2011,4,Ship and Boat Building,184,23051,1645478000,2341924000,2320981000
+-5,Northeast,5,Northeast,Regional,2011,5,Tourism and Recreation,11707,164516,3324377000,4996300000,5004004000
+-5,Northeast,5,Northeast,Regional,2011,6,Marine Transportation,567,26940,2221563000,4057660000,4299081000
+-5,Northeast,5,Northeast,Regional,2011,9,All Ocean Sectors,13976,224437,7730455000,12970285000,13109541000
+-5,Northeast,5,Northeast,Regional,2012,1,Marine Construction,193,1747,90397000,170535000,166309000
+-5,Northeast,5,Northeast,Regional,2012,2,Living Resources,1188,7738,429528000,1440095000,1317502000
+-5,Northeast,5,Northeast,Regional,2012,3,Offshore Mineral Extraction,121,603,37458000,158268000,132986000
+-5,Northeast,5,Northeast,Regional,2012,4,Ship and Boat Building,182,23293,1710090000,2459643000,2383657000
+-5,Northeast,5,Northeast,Regional,2012,5,Tourism and Recreation,11760,170831,3522507000,7784643000,7498295000
+-5,Northeast,5,Northeast,Regional,2012,6,Marine Transportation,552,26574,2317542000,4359995000,4722897000
+-5,Northeast,5,Northeast,Regional,2012,9,All Ocean Sectors,14003,230790,8107521000,16373179000,16221646000
+-5,Northeast,5,Northeast,Regional,2013,1,Marine Construction,200,1987,105529000,194060000,182841000
+-5,Northeast,5,Northeast,Regional,2013,2,Living Resources,1190,7392,397984000,1270908000,1130850000
+-5,Northeast,5,Northeast,Regional,2013,3,Offshore Mineral Extraction,119,603,36859000,146456000,129620000
+-5,Northeast,5,Northeast,Regional,2013,4,Ship and Boat Building,182,24362,1799137000,2372089000,2229412000
+-5,Northeast,5,Northeast,Regional,2013,5,Tourism and Recreation,12163,175194,3706324000,8137469000,7633451000
+-5,Northeast,5,Northeast,Regional,2013,6,Marine Transportation,555,26266,2265257000,4482450000,4877693000
+-5,Northeast,5,Northeast,Regional,2013,9,All Ocean Sectors,14415,235807,8311090000,16603431000,16183868000
+-5,Northeast,5,Northeast,Regional,2014,1,Marine Construction,165,1858,93367000,204781000,180866000
+-5,Northeast,5,Northeast,Regional,2014,2,Living Resources,1182,7216,381731000,1148519000,991529000
+-5,Northeast,5,Northeast,Regional,2014,3,Offshore Mineral Extraction,122,651,41934000,191799000,173410000
+-5,Northeast,5,Northeast,Regional,2014,4,Ship and Boat Building,187,25352,1945141000,2488203000,2268471000
+-5,Northeast,5,Northeast,Regional,2014,5,Tourism and Recreation,12102,179418,3915414000,8288953000,7574200000
+-5,Northeast,5,Northeast,Regional,2014,6,Marine Transportation,541,26497,2317409000,4278700000,4622390000
+-5,Northeast,5,Northeast,Regional,2014,9,All Ocean Sectors,14339,241249,8716290000,16600955000,15810868000
+-5,Northeast,5,Northeast,Regional,2015,1,Marine Construction,167,2445,118848000,255152000,216361000
+-5,Northeast,5,Northeast,Regional,2015,2,Living Resources,1217,7662,422975000,1308779000,1111811000
+-5,Northeast,5,Northeast,Regional,2015,3,Offshore Mineral Extraction,99,369,22025000,269725000,266530000
+-5,Northeast,5,Northeast,Regional,2015,4,Ship and Boat Building,189,27274,2055005000,3090709000,2710232000
+-5,Northeast,5,Northeast,Regional,2015,5,Tourism and Recreation,12238,184390,4237312000,9117839000,7957991000
+-5,Northeast,5,Northeast,Regional,2015,6,Marine Transportation,546,27413,2355840000,4543910000,4773085000
+-5,Northeast,5,Northeast,Regional,2015,9,All Ocean Sectors,14519,250119,9258154000,18586114000,17036010000
+-5,Northeast,5,Northeast,Regional,2016,1,Marine Construction,159,2425,110256000,193613000,158355000
+-5,Northeast,5,Northeast,Regional,2016,2,Living Resources,1637,11791,658892000,1892138000,1615216000
+-5,Northeast,5,Northeast,Regional,2016,3,Offshore Mineral Extraction,123,659,45198000,314739000,307644000
+-5,Northeast,5,Northeast,Regional,2016,4,Ship and Boat Building,188,28371,2139833000,2825495000,2429984000
+-5,Northeast,5,Northeast,Regional,2016,5,Tourism and Recreation,12458,189098,4520523000,9732781000,8153846000
+-5,Northeast,5,Northeast,Regional,2016,6,Marine Transportation,430,23178,2007429000,3599582000,3862715000
+-5,Northeast,5,Northeast,Regional,2016,9,All Ocean Sectors,15185,260056,9775768000,19253186000,17194324000
+-6,North Pacific,6,North Pacific,Regional,2005,1,Marine Construction,42,525,45804000,90313000,106689000
+-6,North Pacific,6,North Pacific,Regional,2005,2,Living Resources,266,9074,294195000,556307000,645836000
+-6,North Pacific,6,North Pacific,Regional,2005,3,Offshore Mineral Extraction,167,8344,818282000,9442482000,7584755000
+-6,North Pacific,6,North Pacific,Regional,2005,4,Ship and Boat Building,22,217,9103000,8813000,9694000
+-6,North Pacific,6,North Pacific,Regional,2005,5,Tourism and Recreation,1617,19727,354434000,737196000,854909000
+-6,North Pacific,6,North Pacific,Regional,2005,6,Marine Transportation,119,1686,91410000,199865000,169562000
+-6,North Pacific,6,North Pacific,Regional,2005,9,All Ocean Sectors,2233,39576,1613228000,11034975000,9371445000
+-6,North Pacific,6,North Pacific,Regional,2006,1,Marine Construction,37,679,57397000,110236000,118990000
+-6,North Pacific,6,North Pacific,Regional,2006,2,Living Resources,250,9749,305138000,654055000,778731000
+-6,North Pacific,6,North Pacific,Regional,2006,3,Offshore Mineral Extraction,155,9609,976214000,11888207000,9043728000
+-6,North Pacific,6,North Pacific,Regional,2006,4,Ship and Boat Building,21,206,7938000,7528000,8365000
+-6,North Pacific,6,North Pacific,Regional,2006,5,Tourism and Recreation,1627,19970,366464000,773788000,863781000
+-6,North Pacific,6,North Pacific,Regional,2006,6,Marine Transportation,128,1670,96221000,248540000,210309000
+-6,North Pacific,6,North Pacific,Regional,2006,9,All Ocean Sectors,2218,41886,1809373000,13682354000,11023904000
+-6,North Pacific,6,North Pacific,Regional,2007,1,Marine Construction,37,633,55415000,106377000,107880000
+-6,North Pacific,6,North Pacific,Regional,2007,2,Living Resources,270,9513,318371000,692633000,821148000
+-6,North Pacific,6,North Pacific,Regional,2007,3,Offshore Mineral Extraction,145,11105,1196063000,14006150000,9912506000
+-6,North Pacific,6,North Pacific,Regional,2007,4,Ship and Boat Building,22,291,12750000,12617000,13518000
+-6,North Pacific,6,North Pacific,Regional,2007,5,Tourism and Recreation,1574,20364,383878000,809293000,865139000
+-6,North Pacific,6,North Pacific,Regional,2007,6,Marine Transportation,123,1529,95399000,241765000,212906000
+-6,North Pacific,6,North Pacific,Regional,2007,9,All Ocean Sectors,2171,43438,2061875000,15868836000,11933097000
+-6,North Pacific,6,North Pacific,Regional,2008,1,Marine Construction,36,641,52696000,96042000,97412000
+-6,North Pacific,6,North Pacific,Regional,2008,2,Living Resources,280,9389,309711000,693564000,756367000
+-6,North Pacific,6,North Pacific,Regional,2008,3,Offshore Mineral Extraction,142,12433,1402899000,18921926000,10133124000
+-6,North Pacific,6,North Pacific,Regional,2008,4,Ship and Boat Building,24,307,14296000,13328000,14216000
+-6,North Pacific,6,North Pacific,Regional,2008,5,Tourism and Recreation,1551,20099,392672000,877508000,908065000
+-6,North Pacific,6,North Pacific,Regional,2008,6,Marine Transportation,119,1582,100656000,269119000,238019000
+-6,North Pacific,6,North Pacific,Regional,2008,9,All Ocean Sectors,2152,44453,2272932000,20871486000,12147204000
+-6,North Pacific,6,North Pacific,Regional,2009,1,Marine Construction,38,518,49601000,97559000,97559000
+-6,North Pacific,6,North Pacific,Regional,2009,2,Living Resources,282,9443,305252000,868482000,868482000
+-6,North Pacific,6,North Pacific,Regional,2009,3,Offshore Mineral Extraction,148,12413,1434961000,13060521000,13060521000
+-6,North Pacific,6,North Pacific,Regional,2009,4,Ship and Boat Building,23,342,17415000,17140000,17140000
+-6,North Pacific,6,North Pacific,Regional,2009,5,Tourism and Recreation,1505,19392,376317000,829529000,829529000
+-6,North Pacific,6,North Pacific,Regional,2009,6,Marine Transportation,121,1555,98950000,269065000,269065000
+-6,North Pacific,6,North Pacific,Regional,2009,9,All Ocean Sectors,2117,43665,2282496000,15142298000,15142298000
+-6,North Pacific,6,North Pacific,Regional,2010,1,Marine Construction,40,560,54456000,105146000,107060000
+-6,North Pacific,6,North Pacific,Regional,2010,2,Living Resources,289,9608,336368000,767679000,763452000
+-6,North Pacific,6,North Pacific,Regional,2010,3,Offshore Mineral Extraction,141,12326,1452036000,14351148000,11265305000
+-6,North Pacific,6,North Pacific,Regional,2010,4,Ship and Boat Building,26,341,17175000,17093000,17093000
+-6,North Pacific,6,North Pacific,Regional,2010,5,Tourism and Recreation,1513,19868,397725000,849364000,849339000
+-6,North Pacific,6,North Pacific,Regional,2010,6,Marine Transportation,124,1662,105149000,302243000,271440000
+-6,North Pacific,6,North Pacific,Regional,2010,9,All Ocean Sectors,2133,44367,2362908000,16392673000,13273689000
+-6,North Pacific,6,North Pacific,Regional,2011,1,Marine Construction,47,434,43093000,81968000,82276000
+-6,North Pacific,6,North Pacific,Regional,2011,2,Living Resources,307,10844,384586000,855688000,842136000
+-6,North Pacific,6,North Pacific,Regional,2011,3,Offshore Mineral Extraction,142,12462,1527310000,17695168000,12078188000
+-6,North Pacific,6,North Pacific,Regional,2011,4,Ship and Boat Building,26,321,15105000,14207000,14207000
+-6,North Pacific,6,North Pacific,Regional,2011,5,Tourism and Recreation,1594,20788,428082000,854049000,851925000
+-6,North Pacific,6,North Pacific,Regional,2011,6,Marine Transportation,123,1697,109218000,295296000,291254000
+-6,North Pacific,6,North Pacific,Regional,2011,9,All Ocean Sectors,2239,46548,2507394000,19796375000,14159986000
+-6,North Pacific,6,North Pacific,Regional,2012,1,Marine Construction,49,399,38267000,67822000,66156000
+-6,North Pacific,6,North Pacific,Regional,2012,2,Living Resources,314,10786,392818000,808082000,759274000
+-6,North Pacific,6,North Pacific,Regional,2012,3,Offshore Mineral Extraction,169,13076,1656803000,18593597000,13949479000
+-6,North Pacific,6,North Pacific,Regional,2012,4,Ship and Boat Building,24,356,17588000,15768000,14892000
+-6,North Pacific,6,North Pacific,Regional,2012,5,Tourism and Recreation,1637,21438,450766000,910892000,873828000
+-6,North Pacific,6,North Pacific,Regional,2012,6,Marine Transportation,176,1899,121590000,320600000,325963000
+-6,North Pacific,6,North Pacific,Regional,2012,9,All Ocean Sectors,2369,47957,2677832000,20716762000,15989592000
+-6,North Pacific,6,North Pacific,Regional,2013,1,Marine Construction,45,460,43672000,70990000,66898000
+-6,North Pacific,6,North Pacific,Regional,2013,2,Living Resources,313,11086,423699000,960830000,881114000
+-6,North Pacific,6,North Pacific,Regional,2013,3,Offshore Mineral Extraction,172,13421,1722705000,16445746000,11773360000
+-6,North Pacific,6,North Pacific,Regional,2013,4,Ship and Boat Building,23,365,19249000,17600000,15840000
+-6,North Pacific,6,North Pacific,Regional,2013,5,Tourism and Recreation,1583,21585,464676000,954064000,890921000
+-6,North Pacific,6,North Pacific,Regional,2013,6,Marine Transportation,189,1836,127258000,374330000,389948000
+-6,North Pacific,6,North Pacific,Regional,2013,9,All Ocean Sectors,2325,48756,2801259000,18823559000,14018081000
+-6,North Pacific,6,North Pacific,Regional,2014,1,Marine Construction,48,486,43568000,68763000,60735000
+-6,North Pacific,6,North Pacific,Regional,2014,2,Living Resources,307,11228,431985000,965455000,847460000
+-6,North Pacific,6,North Pacific,Regional,2014,3,Offshore Mineral Extraction,176,14216,1912113000,13851436000,10233045000
+-6,North Pacific,6,North Pacific,Regional,2014,4,Ship and Boat Building,24,318,15612000,14547000,13691000
+-6,North Pacific,6,North Pacific,Regional,2014,5,Tourism and Recreation,1557,21796,484484000,986203000,896052000
+-6,North Pacific,6,North Pacific,Regional,2014,6,Marine Transportation,218,2325,160622000,415070000,393230000
+-6,North Pacific,6,North Pacific,Regional,2014,9,All Ocean Sectors,2330,50368,3048384000,16301475000,12444214000
+-6,North Pacific,6,North Pacific,Regional,2015,1,Marine Construction,46,354,37878000,59748000,50681000
+-6,North Pacific,6,North Pacific,Regional,2015,2,Living Resources,315,10796,472553000,1195293000,1014044000
+-6,North Pacific,6,North Pacific,Regional,2015,3,Offshore Mineral Extraction,173,14546,1998804000,8109002000,10142656000
+-6,North Pacific,6,North Pacific,Regional,2015,4,Ship and Boat Building,24,358,17506000,21117000,18583000
+-6,North Pacific,6,North Pacific,Regional,2015,5,Tourism and Recreation,1600,22378,516408000,1033465000,896724000
+-6,North Pacific,6,North Pacific,Regional,2015,6,Marine Transportation,228,2307,165263000,405969000,334304000
+-6,North Pacific,6,North Pacific,Regional,2015,9,All Ocean Sectors,2386,50741,3208412000,10824593000,12456991000
+-6,North Pacific,6,North Pacific,Regional,2016,1,Marine Construction,47,354,35066000,59171000,48392000
+-6,North Pacific,6,North Pacific,Regional,2016,2,Living Resources,324,10364,469313000,1116862000,909974000
+-6,North Pacific,6,North Pacific,Regional,2016,3,Offshore Mineral Extraction,170,11525,1529061000,5972744000,8464692000
+-6,North Pacific,6,North Pacific,Regional,2016,4,Ship and Boat Building,24,372,19147000,25538000,22133000
+-6,North Pacific,6,North Pacific,Regional,2016,5,Tourism and Recreation,1618,22691,533652000,1075758000,897878000
+-6,North Pacific,6,North Pacific,Regional,2016,6,Marine Transportation,229,2253,158625000,393735000,323975000
+-6,North Pacific,6,North Pacific,Regional,2016,9,All Ocean Sectors,2412,47561,2744865000,8643807000,10667044000
+-7,Pacific,7,Pacific,Regional,2005,1,Marine Construction,26,468,33972000,71184000,84093000
+-7,Pacific,7,Pacific,Regional,2005,2,Living Resources,160,864,24330000,55091000,58755000
+-7,Pacific,7,Pacific,Regional,2005,3,Offshore Mineral Extraction,7,132,11562000,18812000,30125000
+-7,Pacific,7,Pacific,Regional,2005,4,Ship and Boat Building,22,4667,343942000,32924000,35917000
+-7,Pacific,7,Pacific,Regional,2005,5,Tourism and Recreation,3435,94500,2269117000,5429116000,6139592000
+-7,Pacific,7,Pacific,Regional,2005,6,Marine Transportation,109,5266,239378000,479232000,399177000
+-7,Pacific,7,Pacific,Regional,2005,9,All Ocean Sectors,3759,105901,2922302000,6086360000,6747659000
+-7,Pacific,7,Pacific,Regional,2006,1,Marine Construction,28,503,38217000,78362000,84551000
+-7,Pacific,7,Pacific,Regional,2006,2,Living Resources,149,789,23633000,56749000,59836000
+-7,Pacific,7,Pacific,Regional,2006,3,Offshore Mineral Extraction,7,129,10759000,27234000,36420000
+-7,Pacific,7,Pacific,Regional,2006,4,Ship and Boat Building,20,4672,354410000,32925000,34920000
+-7,Pacific,7,Pacific,Regional,2006,5,Tourism and Recreation,3499,96348,2434314000,5724824000,6236270000
+-7,Pacific,7,Pacific,Regional,2006,6,Marine Transportation,104,7034,296591000,659054000,543448000
+-7,Pacific,7,Pacific,Regional,2006,9,All Ocean Sectors,3807,109476,3157924000,6579148000,6995445000
+-7,Pacific,7,Pacific,Regional,2007,1,Marine Construction,28,517,41267000,83343000,84523000
+-7,Pacific,7,Pacific,Regional,2007,2,Living Resources,151,779,24049000,57992000,55050000
+-7,Pacific,7,Pacific,Regional,2007,3,Offshore Mineral Extraction,9,125,9909000,35696000,43729000
+-7,Pacific,7,Pacific,Regional,2007,4,Ship and Boat Building,22,4643,363033000,52867000,55859000
+-7,Pacific,7,Pacific,Regional,2007,5,Tourism and Recreation,3592,98165,2576556000,5881706000,6120570000
+-7,Pacific,7,Pacific,Regional,2007,6,Marine Transportation,117,6722,322814000,659030000,576915000
+-7,Pacific,7,Pacific,Regional,2007,9,All Ocean Sectors,3919,110954,3337628000,6770635000,6936646000
+-7,Pacific,7,Pacific,Regional,2008,1,Marine Construction,35,589,49574000,97117000,98492000
+-7,Pacific,7,Pacific,Regional,2008,2,Living Resources,153,800,24236000,51643000,47483000
+-7,Pacific,7,Pacific,Regional,2008,3,Offshore Mineral Extraction,9,129,11294000,39836000,42369000
+-7,Pacific,7,Pacific,Regional,2008,4,Ship and Boat Building,23,4897,377281000,61839000,65828000
+-7,Pacific,7,Pacific,Regional,2008,5,Tourism and Recreation,3623,95736,2519115000,5535294000,5606812000
+-7,Pacific,7,Pacific,Regional,2008,6,Marine Transportation,116,4930,277387000,583721000,520675000
+-7,Pacific,7,Pacific,Regional,2008,9,All Ocean Sectors,3959,107084,3258887000,6369449000,6381659000
+-7,Pacific,7,Pacific,Regional,2009,1,Marine Construction,33,498,45477000,97217000,97217000
+-7,Pacific,7,Pacific,Regional,2009,2,Living Resources,150,771,22591000,51998000,51998000
+-7,Pacific,7,Pacific,Regional,2009,3,Offshore Mineral Extraction,27,142,11641000,46053000,46053000
+-7,Pacific,7,Pacific,Regional,2009,4,Ship and Boat Building,22,5112,400866000,76854000,76854000
+-7,Pacific,7,Pacific,Regional,2009,5,Tourism and Recreation,3624,90239,2330627000,4821067000,4821067000
+-7,Pacific,7,Pacific,Regional,2009,6,Marine Transportation,108,3808,232262000,508023000,508023000
+-7,Pacific,7,Pacific,Regional,2009,9,All Ocean Sectors,3964,100572,3043465000,5601210000,5601210000
+-7,Pacific,7,Pacific,Regional,2010,1,Marine Construction,35,623,54551000,113601000,115687000
+-7,Pacific,7,Pacific,Regional,2010,2,Living Resources,147,770,23862000,59779000,55978000
+-7,Pacific,7,Pacific,Regional,2010,3,Offshore Mineral Extraction,10,135,11471000,38586000,35209000
+-7,Pacific,7,Pacific,Regional,2010,4,Ship and Boat Building,25,5082,412490000,75875000,75875000
+-7,Pacific,7,Pacific,Regional,2010,5,Tourism and Recreation,3682,90007,2415465000,5044716000,5064110000
+-7,Pacific,7,Pacific,Regional,2010,6,Marine Transportation,101,3595,223652000,500449000,460139000
+-7,Pacific,7,Pacific,Regional,2010,9,All Ocean Sectors,4000,100215,3141491000,5833005000,5806998000
+-7,Pacific,7,Pacific,Regional,2011,1,Marine Construction,34,636,55933000,112117000,112510000
+-7,Pacific,7,Pacific,Regional,2011,2,Living Resources,139,778,24443000,64847000,56097000
+-7,Pacific,7,Pacific,Regional,2011,3,Offshore Mineral Extraction,10,126,10851000,30981000,24801000
+-7,Pacific,7,Pacific,Regional,2011,4,Ship and Boat Building,29,5298,446264000,94814000,93816000
+-7,Pacific,7,Pacific,Regional,2011,5,Tourism and Recreation,3653,92419,2570000000,5492107000,5471311000
+-7,Pacific,7,Pacific,Regional,2011,6,Marine Transportation,97,3664,225436000,524440000,515067000
+-7,Pacific,7,Pacific,Regional,2011,9,All Ocean Sectors,3962,102925,3332928000,6319307000,6273602000
+-7,Pacific,7,Pacific,Regional,2012,1,Marine Construction,36,633,59950000,119398000,116444000
+-7,Pacific,7,Pacific,Regional,2012,2,Living Resources,131,792,25342000,68511000,58726000
+-7,Pacific,7,Pacific,Regional,2012,3,Offshore Mineral Extraction,11,114,11828000,40011000,33682000
+-7,Pacific,7,Pacific,Regional,2012,4,Ship and Boat Building,28,5189,442263000,69824000,67829000
+-7,Pacific,7,Pacific,Regional,2012,5,Tourism and Recreation,3723,95705,2758442000,6078887000,5842200000
+-7,Pacific,7,Pacific,Regional,2012,6,Marine Transportation,100,3573,233031000,521942000,522893000
+-7,Pacific,7,Pacific,Regional,2012,9,All Ocean Sectors,4029,106008,3530856000,6898574000,6641774000
+-7,Pacific,7,Pacific,Regional,2013,1,Marine Construction,37,560,51170000,98216000,92535000
+-7,Pacific,7,Pacific,Regional,2013,2,Living Resources,122,807,26484000,70820000,59116000
+-7,Pacific,7,Pacific,Regional,2013,3,Offshore Mineral Extraction,9,107,12103000,40586000,36511000
+-7,Pacific,7,Pacific,Regional,2013,4,Ship and Boat Building,29,5039,413254000,77800000,73811000
+-7,Pacific,7,Pacific,Regional,2013,5,Tourism and Recreation,3746,99105,2911044000,6519092000,6112998000
+-7,Pacific,7,Pacific,Regional,2013,6,Marine Transportation,101,3660,245091000,617215000,629501000
+-7,Pacific,7,Pacific,Regional,2013,9,All Ocean Sectors,4044,109279,3659147000,7423729000,7004472000
+-7,Pacific,7,Pacific,Regional,2014,1,Marine Construction,33,912,87586000,170747000,150812000
+-7,Pacific,7,Pacific,Regional,2014,2,Living Resources,123,794,26298000,68029000,56506000
+-7,Pacific,7,Pacific,Regional,2014,3,Offshore Mineral Extraction,9,99,11429000,49765000,45247000
+-7,Pacific,7,Pacific,Regional,2014,4,Ship and Boat Building,23,5088,449626000,68812000,62828000
+-7,Pacific,7,Pacific,Regional,2014,5,Tourism and Recreation,3773,101061,3044849000,6550522000,5949931000
+-7,Pacific,7,Pacific,Regional,2014,6,Marine Transportation,102,3719,264158000,616320000,575799000
+-7,Pacific,7,Pacific,Regional,2014,9,All Ocean Sectors,4063,111673,3883946000,7524195000,6841123000
+-7,Pacific,7,Pacific,Regional,2015,1,Marine Construction,28,1128,117388000,233581000,198050000
+-7,Pacific,7,Pacific,Regional,2015,2,Living Resources,123,938,35874000,89424000,76869000
+-7,Pacific,7,Pacific,Regional,2015,3,Offshore Mineral Extraction,10,110,13004000,68501000,67601000
+-7,Pacific,7,Pacific,Regional,2015,4,Ship and Boat Building,23,5551,479948000,72802000,63827000
+-7,Pacific,7,Pacific,Regional,2015,5,Tourism and Recreation,3893,102606,3234852000,7045954000,6143699000
+-7,Pacific,7,Pacific,Regional,2015,6,Marine Transportation,107,3828,289424000,649793000,536350000
+-7,Pacific,7,Pacific,Regional,2015,9,All Ocean Sectors,4184,114164,4170491000,8160056000,7086397000
+-7,Pacific,7,Pacific,Regional,2016,1,Marine Construction,30,1126,116360000,238177000,194800000
+-7,Pacific,7,Pacific,Regional,2016,2,Living Resources,153,1591,65019000,165399000,149596000
+-7,Pacific,7,Pacific,Regional,2016,3,Offshore Mineral Extraction,11,110,11828000,45866000,44271000
+-7,Pacific,7,Pacific,Regional,2016,4,Ship and Boat Building,22,5873,529376000,87778000,74810000
+-7,Pacific,7,Pacific,Regional,2016,5,Tourism and Recreation,4020,105573,3439781000,7400476000,6225612000
+-7,Pacific,7,Pacific,Regional,2016,6,Marine Transportation,102,3806,303100000,687602000,565599000
+-7,Pacific,7,Pacific,Regional,2016,9,All Ocean Sectors,4338,118083,4465464000,8625298000,7254688000
+-8,Great Lakes,8,Great Lakes,Regional,2005,1,Marine Construction,365,2352,121708000,247381000,292258000
+-8,Great Lakes,8,Great Lakes,Regional,2005,2,Living Resources,291,2089,53169000,148970000,162688000
+-8,Great Lakes,8,Great Lakes,Regional,2005,3,Offshore Mineral Extraction,352,1922,108489000,323232000,417901000
+-8,Great Lakes,8,Great Lakes,Regional,2005,4,Ship and Boat Building,154,14521,542519000,1307898000,1434451000
+-8,Great Lakes,8,Great Lakes,Regional,2005,5,Tourism and Recreation,10909,211298,3241931000,6901240000,8009958000
+-8,Great Lakes,8,Great Lakes,Regional,2005,6,Marine Transportation,1153,52293,2452706000,4737243000,4458056000
+-8,Great Lakes,8,Great Lakes,Regional,2005,9,All Ocean Sectors,13239,284585,6524947000,13701274000,14816984000
+-8,Great Lakes,8,Great Lakes,Regional,2006,1,Marine Construction,387,3200,183367000,351127000,378907000
+-8,Great Lakes,8,Great Lakes,Regional,2006,2,Living Resources,287,2058,51565000,147862000,162726000
+-8,Great Lakes,8,Great Lakes,Regional,2006,3,Offshore Mineral Extraction,360,1754,100493000,338771000,383580000
+-8,Great Lakes,8,Great Lakes,Regional,2006,4,Ship and Boat Building,152,14463,549629000,1288168000,1375712000
+-8,Great Lakes,8,Great Lakes,Regional,2006,5,Tourism and Recreation,11189,216936,3464302000,7364319000,8258260000
+-8,Great Lakes,8,Great Lakes,Regional,2006,6,Marine Transportation,1166,53885,2544798000,4910031000,4761591000
+-8,Great Lakes,8,Great Lakes,Regional,2006,9,All Ocean Sectors,13546,292366,6896306000,14423256000,15346816000
+-8,Great Lakes,8,Great Lakes,Regional,2007,1,Marine Construction,335,2218,127107000,500006000,507099000
+-8,Great Lakes,8,Great Lakes,Regional,2007,2,Living Resources,269,1757,46988000,156974000,158531000
+-8,Great Lakes,8,Great Lakes,Regional,2007,3,Offshore Mineral Extraction,355,1758,109910000,366323000,370369000
+-8,Great Lakes,8,Great Lakes,Regional,2007,4,Ship and Boat Building,167,14770,617800000,1576525000,1671528000
+-8,Great Lakes,8,Great Lakes,Regional,2007,5,Tourism and Recreation,11171,218483,3659624000,7924189000,8514666000
+-8,Great Lakes,8,Great Lakes,Regional,2007,6,Marine Transportation,1168,52235,2654308000,4915238000,4754197000
+-8,Great Lakes,8,Great Lakes,Regional,2007,9,All Ocean Sectors,13540,293520,7368264000,15468631000,16005877000
+-8,Great Lakes,8,Great Lakes,Regional,2008,1,Marine Construction,334,1913,118611000,595272000,603668000
+-8,Great Lakes,8,Great Lakes,Regional,2008,2,Living Resources,261,1667,47841000,176609000,169043000
+-8,Great Lakes,8,Great Lakes,Regional,2008,3,Offshore Mineral Extraction,365,2096,128929000,450831000,378787000
+-8,Great Lakes,8,Great Lakes,Regional,2008,4,Ship and Boat Building,173,13772,539630000,1347137000,1424696000
+-8,Great Lakes,8,Great Lakes,Regional,2008,5,Tourism and Recreation,11144,216480,3663584000,7782838000,8122781000
+-8,Great Lakes,8,Great Lakes,Regional,2008,6,Marine Transportation,1135,50788,2612311000,4894899000,4771456000
+-8,Great Lakes,8,Great Lakes,Regional,2008,9,All Ocean Sectors,13495,289540,7339719000,15266198000,15488362000
+-8,Great Lakes,8,Great Lakes,Regional,2009,1,Marine Construction,315,1658,107616000,648267000,648267000
+-8,Great Lakes,8,Great Lakes,Regional,2009,2,Living Resources,287,1953,55378000,188766000,188766000
+-8,Great Lakes,8,Great Lakes,Regional,2009,3,Offshore Mineral Extraction,334,1622,103517000,378731000,378731000
+-8,Great Lakes,8,Great Lakes,Regional,2009,4,Ship and Boat Building,161,8107,332580000,859665000,859665000
+-8,Great Lakes,8,Great Lakes,Regional,2009,5,Tourism and Recreation,11165,205934,3501703000,7426643000,7426643000
+-8,Great Lakes,8,Great Lakes,Regional,2009,6,Marine Transportation,1169,48187,2494625000,4947472000,4947472000
+-8,Great Lakes,8,Great Lakes,Regional,2009,9,All Ocean Sectors,13502,270128,6841572000,14476886000,14476886000
+-8,Great Lakes,8,Great Lakes,Regional,2010,1,Marine Construction,322,2663,196318000,367206000,373963000
+-8,Great Lakes,8,Great Lakes,Regional,2010,2,Living Resources,286,2270,62394000,210364000,200567000
+-8,Great Lakes,8,Great Lakes,Regional,2010,3,Offshore Mineral Extraction,338,1421,95844000,352458000,307359000
+-8,Great Lakes,8,Great Lakes,Regional,2010,4,Ship and Boat Building,155,7570,321853000,830675000,831630000
+-8,Great Lakes,8,Great Lakes,Regional,2010,5,Tourism and Recreation,11409,205509,3584679000,7641773000,7651256000
+-8,Great Lakes,8,Great Lakes,Regional,2010,6,Marine Transportation,1183,47942,2538311000,5097526000,5132725000
+-8,Great Lakes,8,Great Lakes,Regional,2010,9,All Ocean Sectors,13706,267439,6802687000,14534423000,14531602000
+-8,Great Lakes,8,Great Lakes,Regional,2011,1,Marine Construction,312,2391,185992000,320884000,322068000
+-8,Great Lakes,8,Great Lakes,Regional,2011,2,Living Resources,287,2394,70417000,227884000,197705000
+-8,Great Lakes,8,Great Lakes,Regional,2011,3,Offshore Mineral Extraction,340,1315,87195000,296624000,241946000
+-8,Great Lakes,8,Great Lakes,Regional,2011,4,Ship and Boat Building,143,8010,353840000,994738000,985729000
+-8,Great Lakes,8,Great Lakes,Regional,2011,5,Tourism and Recreation,11577,207583,3695495000,7061741000,7070869000
+-8,Great Lakes,8,Great Lakes,Regional,2011,6,Marine Transportation,1182,48567,2667771000,5016449000,5288596000
+-8,Great Lakes,8,Great Lakes,Regional,2011,9,All Ocean Sectors,13857,270342,7065218000,13964312000,14150517000
+-8,Great Lakes,8,Great Lakes,Regional,2012,1,Marine Construction,308,1947,139251000,274830000,268018000
+-8,Great Lakes,8,Great Lakes,Regional,2012,2,Living Resources,288,2525,76709000,247021000,210235000
+-8,Great Lakes,8,Great Lakes,Regional,2012,3,Offshore Mineral Extraction,311,1189,97995000,307979000,259856000
+-8,Great Lakes,8,Great Lakes,Regional,2012,4,Ship and Boat Building,118,6420,286376000,1061511000,1028757000
+-8,Great Lakes,8,Great Lakes,Regional,2012,5,Tourism and Recreation,11652,216928,4000853000,8712540000,8395597000
+-8,Great Lakes,8,Great Lakes,Regional,2012,6,Marine Transportation,1188,48504,2761254000,5257858000,5704547000
+-8,Great Lakes,8,Great Lakes,Regional,2012,9,All Ocean Sectors,13909,280320,7494018000,15917091000,15918803000
+-8,Great Lakes,8,Great Lakes,Regional,2013,1,Marine Construction,296,1597,109912000,212876718,200590560
+-8,Great Lakes,8,Great Lakes,Regional,2013,2,Living Resources,293,2036,62627000,251522491,197116539
+-8,Great Lakes,8,Great Lakes,Regional,2013,3,Offshore Mineral Extraction,290,1343,88012000,471622570,364453285
+-8,Great Lakes,8,Great Lakes,Regional,2013,4,Ship and Boat Building,136,9582,437761000,1178300652,1110132808
+-8,Great Lakes,8,Great Lakes,Regional,2013,5,Tourism and Recreation,11926,223346,4155930000,9046970696,8482153775
+-8,Great Lakes,8,Great Lakes,Regional,2013,6,Marine Transportation,1211,46999,2650848000,5164105706,5694250531
+-8,Great Lakes,8,Great Lakes,Regional,2013,9,All Ocean Sectors,14197,285529,7560233000,16498062412,16209288256
+-8,Great Lakes,8,Great Lakes,Regional,2014,1,Marine Construction,309,1989,149238000,290170148,256266694
+-8,Great Lakes,8,Great Lakes,Regional,2014,2,Living Resources,292,2073,63421000,231585508,187639037
+-8,Great Lakes,8,Great Lakes,Regional,2014,3,Offshore Mineral Extraction,329,1455,98814000,685936869,528776849
+-8,Great Lakes,8,Great Lakes,Regional,2014,4,Ship and Boat Building,92,3700,172784000,1046793879,953825260
+-8,Great Lakes,8,Great Lakes,Regional,2014,5,Tourism and Recreation,11985,228571,4336969000,9787113236,8939789327
+-8,Great Lakes,8,Great Lakes,Regional,2014,6,Marine Transportation,1247,50128,2950985000,5574804343,6060693003
+-8,Great Lakes,8,Great Lakes,Regional,2014,9,All Ocean Sectors,14370,293269,8015338000,17636707438,16945079789
+-8,Great Lakes,8,Great Lakes,Regional,2015,1,Marine Construction,304,1588,115546000,288595000,244724000
+-8,Great Lakes,8,Great Lakes,Regional,2015,2,Living Resources,310,2118,69572000,233741000,200192000
+-8,Great Lakes,8,Great Lakes,Regional,2015,3,Offshore Mineral Extraction,329,1118,77413000,323103000,361019000
+-8,Great Lakes,8,Great Lakes,Regional,2015,4,Ship and Boat Building,115,7081,348729000,1164348000,1021216000
+-8,Great Lakes,8,Great Lakes,Regional,2015,5,Tourism and Recreation,12325,233935,4645029000,10483715000,9145974000
+-8,Great Lakes,8,Great Lakes,Regional,2015,6,Marine Transportation,1258,51456,3003790000,5437008000,5743826000
+-8,Great Lakes,8,Great Lakes,Regional,2015,9,All Ocean Sectors,14731,299738,8384869000,30931964000,28887922000
+-8,Great Lakes,8,Great Lakes,Regional,2016,1,Marine Construction,326,2074,154677000,303677000,248371000
+-8,Great Lakes,8,Great Lakes,Regional,2016,2,Living Resources,451,4101,172990000,486094000,434012000
+-8,Great Lakes,8,Great Lakes,Regional,2016,3,Offshore Mineral Extraction,277,921,64564000,305312000,372878000
+-8,Great Lakes,8,Great Lakes,Regional,2016,4,Ship and Boat Building,81,6920,351895000,928987000,798654000
+-8,Great Lakes,8,Great Lakes,Regional,2016,5,Tourism and Recreation,12355,240214,4929997000,11097080000,9299224000
+-8,Great Lakes,8,Great Lakes,Regional,2016,6,Marine Transportation,1231,55354,3107550000,5652450000,5980660000
+-8,Great Lakes,8,Great Lakes,Regional,2016,9,All Ocean Sectors,14805,310855,8835522000,19027089000,17352488000
