@@ -1,12 +1,15 @@
 """
 Created on Fri May 15 23:23:23 2020
 @author: Kowe
+This program uses a user interface to plot NOAA employment levels 
+in a selected region and sector
 """
 #Imports
 import numpy as np
 import matplotlib.pyplot as plt
 from tkinter import *
 
+#This class creates the user inteface
 class GUI(Frame):
     def __init__(self,master):
         self.master = master
@@ -26,7 +29,7 @@ class GUI(Frame):
         self.backgroundLabel= Label(self.frame,image=self.img)
         self.backgroundLabel.pack(fill=X)
         
-        #Creating Entry Options
+        #Creating Labels and Entry Options
         self.regionLabel = Label(self.frame, text = "Select Region: ")
         self.regionLabel.pack(side=LEFT)
         self.regionEntry = Entry(self.frame, width = 15)
@@ -45,7 +48,7 @@ class GUI(Frame):
         self.sectorGuide.set("1-Marine Construction, 2-Living Resources, 3-Offshore Mineral Extraction, 4- Ship and Boat Building, 5- Tourism and Recreation, 6- Marine Transportation" )
         self.sectorInfo.pack(side=LEFT)
                
-        #Getting results
+        #Creating results button
         self.newWindow = None
         self.results = Button(self.bottomframe, text="Display Results", command= self.resultsWindow)
         self.results.pack(side=BOTTOM)
@@ -55,6 +58,7 @@ class GUI(Frame):
         ##Opening file
         self.file = open('enow_sector_region.csv', mode = 'r') #opening the file
         self.data = np.recfromcsv(self.file, dtype =None, encoding = 'utf-8') #the data is one huge array
+        
         ##Variables & IDs
         self.year =[]
         self.employment = []
@@ -62,13 +66,15 @@ class GUI(Frame):
         self.sectorName=""
         self.regionID = self.regionEntry.get()
         self.sectorID = self.sectorEntry.get()
+        
+        ##Sorting through the data
         for lines in self.data:
             if lines[2] == int(self.regionID) and lines[6] == int(self.sectorID): #if the id numbers match the region and sector id
                 self.regionName = lines[3] #record the name of the region (e.g. West)
                 self.sectorName =  lines[7] #record the name of the sector (e.g. Marine Construction)
                 self.year.append(lines[5]) #adding the appropriate years
                 self.employment.append(lines[9]) #adding the appropriate employment per year
-        self.name = "NOAA Employment Levels per Region: "+ self.regionName + " and sector: " + self.sectorName
+        self.name = "NOAA Employment Levels per Region: "+ self.regionName + " and sector: " + self.sectorName #Creating plot name
         fig, ax = plt.subplots() 
         ax.plot(self.year, self.employment) #plots year vs employment
         ax.set(xlabel='Year', ylabel='Employment',title=self.name) #titling the plot and axes
@@ -77,13 +83,13 @@ class GUI(Frame):
    
     def resultsWindow(self): #generates the new window with the results
         self.getGraph() #generates the graph
-        if self.newWindow is None:
+        if self.newWindow is None:#if there's no window, create a new one
             self.newWindow = Toplevel()
             self.img1 = PhotoImage(file ="test.png")
             self.label = Label(self.newWindow,image = self.img1)
             self.label.pack(fill= BOTH,expand=True)
             self.newWindow.mainloop()
-        else:
+        else: #otherwise destroy the existing window and create an updated one
             self.newWindow.destroy()
             self.newWindow = None
             self.resultsWindow()
